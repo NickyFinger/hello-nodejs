@@ -2,7 +2,9 @@
   "name": "hello-nodejs",
   "version": "0.1.0",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "start": "node app.js"
+  },
   "private": true,
   "dependencies": {
     "express": "^4.17.1"
